@@ -1,0 +1,14 @@
+{
+  "name": "telegram-finance-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/vision": "^4.5.0",
+    "dotenv": "^16.4.1",
+    "express": "^4.19.2",
+    "googleapis": "^131.0.0",
+    "telegraf": "^4.18.3"
+  }
+}
